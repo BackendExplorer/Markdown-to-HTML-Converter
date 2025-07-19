@@ -250,15 +250,19 @@ sequenceDiagram
 
 <br>
 
-- [Python-Markdown](https://python-markdown.github.io/)
+- [Python-Markdown - Markdown 変換ライブラリ](https://python-markdown.github.io/)
 
-- [Docker](https://docs.docker.com/)
+  .md ファイルを HTML に変換する方法を参照
 
-- [Docker Compose](https://docs.docker.com/compose/)
+- [Docker - コンテナ](https://docs.docker.com/)
 
+  コンテナのビルドと実行手順を参照
+
+- [Docker Compose - サービス定義](https://docs.docker.com/compose/)
+
+  コンテナの起動方法を参照
 
 <br>
-
 ---
 
 ## <a id="ライセンス"></a>📜 ライセンス情報
