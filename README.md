@@ -1,4 +1,4 @@
-# Markdown-to-HTML-Converter
+# Markdown to HTML Converter
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
